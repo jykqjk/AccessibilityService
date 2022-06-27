@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAccessibilityMode</string>
+    <string name="accessibility_service_label">accessibility_service_label</string>
+</resources>
